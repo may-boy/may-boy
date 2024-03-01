@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Mayank Chopra, a passionate software developer based in Chandigarh. Welcome to my GitHub profile!
+I'm Mayank Chopra, a passionate software developer based in Chandigarh. Welcome to my GitHub profile! 
 
 ## About Me
 
